@@ -2,6 +2,10 @@
 
 This is a Shiny web application for exploratory data analysis (EDA) of the [UCI Heart Failure Dataset](https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records). It allows the user to upload a CSV file of the dataset, mark categorical variables, define labels for categorical variables, and generate various plots.
 
+<div style="text-align: center;">
+    <img src="https://github.com/Mehrnoushk/R-Shiny-Dashboard-Heart-Failure-Analysis/blob/main/assets/shiny-app-01.jpg?raw=true" width="75%">
+</div>
+
 ## Installation
 
 To run this app locally, you'll need to have R and RStudio installed on your machine. You can download them here:
