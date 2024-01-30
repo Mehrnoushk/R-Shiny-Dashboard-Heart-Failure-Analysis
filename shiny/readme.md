@@ -31,5 +31,8 @@ If you find any bugs or issues with this app, or if you have any suggestions for
 
 ## Credits
 
-The dataset used in this app is the [UCI Heart Failure Dataset](https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records).
+This dashboard was created by `MK` using [R](https://www.r-project.org/) and [Shiny](https://shiny.rstudio.com/). The dataset used in this app is the [UCI Heart Failure Dataset](https://archive.ics.uci.edu/ml/datasets/Heart+failure+clinical+records).
 
+## License
+
+This app is licensed under the [MIT License](LICENSE).
